@@ -54,7 +54,7 @@ Notebook ini berisi analisis data COVID-19 di Indonesia menggunakan Python, pand
 
 ---
 
-### 📈 Contoh Visualisasi
+### Contoh Visualisasi
 
 ```python
 plt.plot(df['tanggal'], df['kasus_baru'], label='Kasus Baru')
@@ -73,13 +73,3 @@ plt.show()
 * Terlihat fluktuasi jumlah kasus harian di Indonesia.
 * Grafik membantu dalam mengidentifikasi puncak dan penurunan kasus.
 * Perbandingan antar kasus positif, sembuh, dan meninggal mempermudah pemantauan dampak pandemi.
-
----
-
-### Catatan
-
-* Pastikan dataset terbaru tersedia agar analisis tetap relevan.
-* Tambahkan pengecekan anomali data seperti outlier jika dibutuhkan.
-* Perhatikan format tanggal dan urutan data saat memplot grafik.
-
----
