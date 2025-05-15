@@ -68,7 +68,7 @@ plt.show()
 
 ---
 
-### 💡 Insight yang Didapat
+### Insight yang Didapat
 
 * Terlihat fluktuasi jumlah kasus harian di Indonesia.
 * Grafik membantu dalam mengidentifikasi puncak dan penurunan kasus.
@@ -76,7 +76,7 @@ plt.show()
 
 ---
 
-### 📝 Catatan
+### Catatan
 
 * Pastikan dataset terbaru tersedia agar analisis tetap relevan.
 * Tambahkan pengecekan anomali data seperti outlier jika dibutuhkan.
